@@ -1,3 +1,6 @@
+Fabian Stachurski i Adam Gawryszczak
+
+
 # Battleship LAN 海戰棋
 
 Classic 10×10 Battleship for you and a friend on the **same local network** — or
